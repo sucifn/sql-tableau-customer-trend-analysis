@@ -50,8 +50,8 @@ The dataset includes intentional data quality issues such as inconsistent text f
 - `https://public.tableau.com/app/profile/suci.fitria/viz/CustomerTrendDashboard/CustomerTrendDashboard`: dashboard tableau preview 
 - `data-cleaning-log.md`: business-style cleaning documentation
 - `business-insights.md`: summary of key findings and recommendations
-- ’data-cleaning.sql`: documentation data cleaning with MySql
-- ’exploratory-data-analysis.sql`: documentation EDA with MySql
+- `data-cleaning.sql`: documentation data cleaning with MySql
+- `exploratory-data-analysis.sql`: documentation EDA with MySql
 
 ## Summary Metrics
 
