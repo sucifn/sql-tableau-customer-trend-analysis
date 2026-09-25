@@ -1,6 +1,5 @@
-## Data Cleaning - SQL
+-- Data Cleaning - SQL
 
--- DATA CLEANING
 -- 1. Remove Duplicates
 -- check duplicates
 WITH duplicate_cte_customers AS
